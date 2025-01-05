@@ -3,24 +3,15 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [william.ma@sent.com](mailto:william.ma@sent.com)
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Phone: [+1 (510) 404 -3696](tel:+1-5104043696)
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+* [Strava](https://www.strava.com/athletes/28789625)
+* [Goodreads](https://www.goodreads.com/user/show/34574580-william)
+* [Instagram](https://www.instagram.com/williamma12/)
+* [Github](https://github.com/williamma12)

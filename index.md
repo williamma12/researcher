@@ -6,40 +6,28 @@ layout: default
 
 <img class="profile-picture" src="photo.jpeg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am currently a Machine Learning Engineer at Apple working on entity linking, thread disentanglement, and question answering.
+I graduated with a Master's Degree from UChicago working on data systems with [Aaron Elmore](http://people.cs.uchicago.edu/~aelmore/)
+and did Bachlor's Degree at UC Berkeley working on data systems at [RISE lab](https://rise.cs.berkeley.edu).
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+In my free time, I like to race triathlons ([USA Triathlon ranking](https://member.usatriathlon.org/athletes/2655854/results)), creating ceramics, and reading fun books ([my goodreads](https://www.goodreads.com/user/show/34574580-william)).
 
-## Research Interest
+## Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+### Apple
 
-## Publications
+* [Safari Highlights](https://www.youtube.com/live/RXeOiIDNNek?si=uC0ksUUhLQeeeu4z&t=3488) and other features that were apart of Apple Intelligence.
+* Leading efforts for the entity linking for all of Knowledge within Apple.
+* Primary on-call during all high profile events for entity linking pipeline.
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+### Data Systems
 
-## Typography
+* Maintainer of [Modin](https://github.com/modin-project/modin), a library that parallelizes Pandas with one-line code change ([paper](https://arxiv.org/pdf/2001.00888))
+* Developed incremental batch processing to build data systems beyond lambda architecture by 6x over state-of-the-art ([paper](https://doi.org/10.1145/3448016.3457282))
+* Developed cost-based optimizations that improved SparkSQL above state-of-the-art by 2x ([paper](https://doi.org/10.1145/3318464.3384410))
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+### MISC
 
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* Analyzed Roman Imperial coinage to show the origin of the "radiate crown" ([paper](https://doi.org/10.1525/sla.2021.5.3.292))
+* Proved that existing methods for analyzing part worths of products can be up to 40% off
+* Showed the existence of the 25th solar cycle by analyzing magnetograms ([blog post](http://hmi.stanford.edu/hminuggets/?p=1657))
