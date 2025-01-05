@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="photo.jpeg">
+<img class="profile-picture" src="photo.png">
 
 Hi! I am currently a senior machine learning engineer at Apple working on entity linking, thread disentanglement, and question answering.
 I graduated with a Master's Degree from UChicago working on data systems with [Aaron Elmore](http://people.cs.uchicago.edu/~aelmore/)
