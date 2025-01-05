@@ -1,6 +1,8 @@
 title: Researcher
 url: "https://williamma.org"
-baseurl: "/researcher"
+baseurl: ""
+
+remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
