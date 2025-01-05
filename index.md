@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## About
 
 <img class="profile-picture" src="photo.png">
 
@@ -10,7 +10,7 @@ Hi! I am currently a senior machine learning engineer at Apple working on entity
 I graduated with a Master's Degree from UChicago working on data systems with [Aaron Elmore](http://people.cs.uchicago.edu/~aelmore/)
 and did Bachlor's Degree at UC Berkeley working on data systems at [RISE lab](https://rise.cs.berkeley.edu).
 
-In my free time, I like to race triathlons ([USA Triathlon ranking](https://member.usatriathlon.org/athletes/2655854/results)), creating ceramics, and reading fun books ([my goodreads](https://www.goodreads.com/user/show/34574580-william)).
+In my free time, I like to race triathlons ([USA Triathlon ranking](https://member.usatriathlon.org/athletes/2655854/results)), create ceramics, and read fun books ([my goodreads](https://www.goodreads.com/user/show/34574580-william)).
 
 ## Projects
 
