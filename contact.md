@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [william.ma@sent.com](mailto:william.ma@sent.com)
+* Email: [me@williamma.org](mailto:me@williamma.org)
 
 * Phone: [+1 (510) 404-3696](tel:+1-5104043696)
 
